@@ -1,2 +1,6 @@
 this is file
+<<<<<<< HEAD
 this is new line by 2nd machine
+=======
+this is line 3
+>>>>>>> 2823dfe5b0fc22c384f9fdf6e2288049264b50b5
